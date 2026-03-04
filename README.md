@@ -7,7 +7,7 @@ Actualmente estoy en búsqueda de oportunidades para seguir creciendo como desar
 🌐 Visitá mi portfolio para ver mis proyectos y trabajos realizados:  
 👉 **https://braiansilva-portfolio.vercel.app/**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://braiansilva-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://braiansilva.vercel.app/)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/braiansilvadioni) 
