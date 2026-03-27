@@ -22,6 +22,3 @@ Actualmente estoy en búsqueda de oportunidades para seguir creciendo como desar
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=braiansilva-dev&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
