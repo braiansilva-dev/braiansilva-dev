@@ -1,22 +1,47 @@
-# 👋 Sobre Mi:
-¡Hola! Soy Braian Silva, desarrollador web con enfoque en Frontend, de Uruguay. Me especializo en crear sitios web responsivos y centrados en la experiencia del usuario, aplicando buenas prácticas como mobile first, código limpio y diseño accesible.<br><br>
-Trabajo principalmente con HTML, CSS y JavaScript, y tengo experiencia usando herramientas como Git y GitHub para el control de versiones. Me gusta transformar ideas en productos reales, aprender nuevas tecnologías y mejorar constantemente mis habilidades a través de proyectos prácticos.<br><br>
-Actualmente estoy en búsqueda de oportunidades para seguir creciendo como desarrollador, colaborar en proyectos reales y aportar valor a equipos de trabajo o clientes.
+# 👋 Hola, soy Braian Silva
 
-## 🚀 Portfolio
-🌐 Visitá mi portfolio para ver mis proyectos y trabajos realizados:  
-👉 **https://braiansilva.vercel.app/**
+💻 **Desarrollador Web Frontend** de Uruguay 🇺🇾
+Me especializo en crear sitios web responsivos, modernos y centrados en la experiencia del usuario, aplicando buenas prácticas como **mobile first**, código limpio y diseño accesible.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://braiansilva.vercel.app/)
+Me gusta transformar ideas en productos reales, aprender nuevas tecnologías y mejorar constantemente a través de proyectos prácticos.
 
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/braiansilvadioni) 
+🚀 **Actualmente estoy en búsqueda de oportunidades laborales y proyectos freelance como Frontend Developer.**
 
-# 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+---
+
+## 🌐 Portfolio
+
+Podés ver mis proyectos y trabajos realizados aquí:
+
+[![Portfolio](https://img.shields.io/badge/Ver%20Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://braiansilva.vercel.app/)
+
+---
+
+## 💼 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/braiansilvadioni)
+
+---
+
+## 🛠 Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwind-css)
+![Astro](https://img.shields.io/badge/Astro-000?style=for-the-badge\&logo=astro)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=braiansilva-dev\&show_icons=true\&theme=default\&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansilva-dev\&layout=compact\&theme=default\&hide_border=true)
+
+---
+
+⭐ **Siempre aprendiendo, construyendo y mejorando como desarrollador.**
