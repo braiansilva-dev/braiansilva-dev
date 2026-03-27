@@ -33,15 +33,3 @@ Podés ver mis proyectos y trabajos realizados aquí:
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
-
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=braiansilva-dev\&show_icons=true\&theme=default\&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=braiansilva-dev\&layout=compact\&theme=default\&hide_border=true)
-
----
-
-⭐ **Siempre aprendiendo, construyendo y mejorando como desarrollador.**
