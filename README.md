@@ -1,6 +1,7 @@
 # 👋 Hola, soy Braian Silva
 
-💻 **Desarrollador Web Frontend** de Uruguay 🇺🇾
+💻 **Desarrollador Web Frontend** de Uruguay 🇺🇾.
+
 Me especializo en crear sitios web responsivos, modernos y centrados en la experiencia del usuario, aplicando buenas prácticas como **mobile first**, código limpio y diseño accesible.
 
 Me gusta transformar ideas en productos reales, aprender nuevas tecnologías y mejorar constantemente a través de proyectos prácticos.
